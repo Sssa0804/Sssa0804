@@ -35,5 +35,5 @@ Full Stack Developer building AI-powered tools with React, Next.js, and Python. 
 - **Applause Award, Deloitte** (awarded twice) for outstanding performance and contribution
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
